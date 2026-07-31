@@ -172,7 +172,7 @@ This roadmap defines the 10 sequential stages of a modern, buyer-centric B2B rev
 | **01** | **Identify** | 100% | Ongoing | SDR / RevOps | ICP Account List |
 | **02** | **Connect** | 8 – 15% | 14 Days | SDR / BDR | Discovery Booking |
 | **03** | **Qualify** | 70 – 80% | 1 - 2 Days | SDR / AE | SAL Handoff Brief |
-| **04** | **Discover** | 60 – 75% | 3 - 5 Days | AE / Consultant | Diagnostic Brief |
+| **04** | **Discover** | 60 – 75% | 3 - 5 Days | AE / Sales Rep | Diagnostic Brief |
 | **05** | **Present** | 50 – 65% | 5 - 7 Days | AE / Solutions Engineer | Tailored Demo Deck |
 | **06** | **Propose** | 40 – 55% | 5 - 10 Days | AE | Business Case & MAP |
 | **07** | **Negotiate** | 60 – 75% | 7 - 14 Days | AE / Sales Leader | Redlined Agreement |
