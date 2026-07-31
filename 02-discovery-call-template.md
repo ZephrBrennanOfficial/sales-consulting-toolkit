@@ -1,7 +1,7 @@
 # First Discovery Call Playbook & Execution Template
 
 **Author:** Zephr Brennan | Sales Consulting Toolkit  
-**Target Role:** Account Executives, Business Development Managers, Sales Consultants  
+**Target Role:** Account Executives, Business Development Managers, Sales Reps  
 **Duration:** 30–45 Minutes | **Format:** Video Call / Phone  
 
 ---
