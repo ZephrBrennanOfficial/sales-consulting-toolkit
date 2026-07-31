@@ -136,7 +136,7 @@ Use this quick scorecard right after the discovery call to evaluate deal health:
 **Account Name:** [Company Name]
 **Contact Name & Title:** [First Last], [Title]
 **Date of Call:** [YYYY-MM-DD]
-**AE / Consultant:** Zephr Brennan
+**Sales Rep:** Zephr Brennan
 
 ---
 
