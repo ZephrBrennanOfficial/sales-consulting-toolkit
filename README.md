@@ -4,21 +4,21 @@
 
 [![Status](https://img.shields.io/badge/Status-Work_In_Progress-orange.svg)](#work-in-progress)
 [![Author](https://img.shields.io/badge/Author-Zephr_Brennan-blue.svg)](#about-the-author)
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](./LICENSE.md)
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](./LICENSE)
 
 ---
 
 ## 🛠️ Work in Progress
 
-> **Note:** This repository is actively maintained and continuously updated with new diagnostic templates, field notes, and interactive tools from live sales consulting engagements across New Zealand and SMB/B2B tech sectors. 
+> **Note:** This repository is actively maintained and continuously updated with new diagnostic templates, field notes, and interactive tools from live sales consulting engagements across New Zealand and SMB/B2B tech sectors.
 
 ---
 
 ## 📋 Overview
 
-The **Sales Consulting Toolkit** is an end-to-end framework designed to diagnose, standardize, and accelerate revenue operations for B2B sales teams and growing enterprises. Built on modern, buyer-centric methodology (MEDDPICC, Sandler, Value-Based Selling), this toolkit bridge the gap between high-level sales strategy and tactical front-line execution.
+The **Sales Consulting Toolkit** is an end-to-end framework designed to diagnose, standardize, and accelerate revenue operations for B2B sales teams and growing enterprises. Built on modern, buyer-centric methodology (MEDDPICC, Sandler, Value-Based Selling), this toolkit bridges the gap between high-level sales strategy and tactical front-line execution.
 
-Whether auditing an underperforming sales funnel, training entry-to-mid-level account executives, or establishing repeatable discovery protocols, this repository provides immediate, copy-paste ready assets and calculation models.
+Whether auditing an underperforming sales funnel, training account executives, or establishing repeatable discovery protocols, this repository provides immediate, copy-paste ready assets and calculation models.
 
 ---
 
@@ -41,7 +41,7 @@ Whether auditing an underperforming sales funnel, training entry-to-mid-level ac
 | [`04-outreach-templates.md`](./04-outreach-templates.md) | **High-Converting Outreach Templates** | 3 cold emails, 2 LinkedIn connection templates, and 1 InMail script with psychological breakdowns. | Outbound campaign creation, SDR enablement, prospect engagement. |
 | [`05-sales-process-roadmap.md`](./05-sales-process-roadmap.md) | **Sales Process Roadmap** | 10-stage end-to-end pipeline map detailing goals, activities, metrics, pitfalls, and tool stacks. | Pipeline engineering, CRM stage setup, team training. |
 | [`06-objection-handling-quick-reference.md`](./06-objection-handling-quick-reference.md) | **Objection Handling Matrix** | Quick-reference card covering Top 10 objections using the AAAR (Acknowledge-Ask-Anchor-Address) model. | Real-time call cheat sheet, roleplay training, objection reframing. |
-| [`LICENSE.md`](./LICENSE.md) | **License Terms** | Proprietary license terms and copyright declaration for Zephr Brennan. | Legal notice & intellectual property protection. |
+| [`LICENSE`](./LICENSE) | **License Terms** | Proprietary license terms and copyright declaration for Zephr Brennan. | Legal notice & intellectual property protection. |
 
 ---
 
@@ -57,17 +57,18 @@ Whether auditing an underperforming sales funnel, training entry-to-mid-level ac
 
 ## 👤 About the Author
 
-**Zephr Brennan**  
-*Sales Professional & B2B Sales Consultant*  
-Auckland, New Zealand  
+**Zephr Brennan**
+*Sales Strategist & B2B Sales Consultant*
+Auckland, New Zealand
 
 Specializing in pipeline growth, sales process architecture, and value-based consultative selling. Passionate about helping NZ SMBs and scaling tech firms transform chaotic sales efforts into predictable revenue machines.
 
-- **LinkedIn:** [linkedin.com/in/zephr-brennan](#) *(Portfolio Representative)*
-- **GitHub:** [github.com/zephrbrennan](#)
+- **LinkedIn:** [Zephr Brennan](https://www.linkedin.com/in/zephr-bren-a50413426)
+- **GitHub:** [ZephrBrennanOfficial](https://github.com/ZephrBrennanOfficial)
+- **Twitter/X:** [@ZephrBrennan](https://twitter.com/ZephrBrennan)
 
 ---
 
 ## 📄 License
 
-Copyright © 2026 Zephr Brennan. All Rights Reserved. See [`LICENSE.md`](./LICENSE.md) for usage rights and restrictions.
+Copyright © 2026 Zephr Brennan. All Rights Reserved. See [`LICENSE`](./LICENSE) for usage rights and restrictions.
