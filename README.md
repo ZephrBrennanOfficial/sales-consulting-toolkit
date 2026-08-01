@@ -69,10 +69,10 @@ I document my sales learning journey in a 5-part series on Substack — practica
 ## 👤 About the Author
 
 **Zephr Brennan**  
-*Telefundraiser | Sales Learner & Builder*  
+*Writer | Sales Learner & Builder*  
 Auckland, New Zealand  
 
-Building a career in sales from scratch by studying methodology, writing frameworks, and building practical sales tools in public. Currently working as a Telefundraiser at Fundamental Worldwide while building out this toolkit on the side. Background in customer service, which turned out to be the best sales training I never asked for.
+Building a career from scratch by studying methodology, writing frameworks, and building practical sales tools in public. Background in customer service, which turned out to be the best sales training I never asked for.
 
 - **Substack:** [https://zephrbrennan.substack.com](https://zephrbrennan.substack.com)
 - **LinkedIn:** [Zephr Brennan](https://www.linkedin.com/in/zephrbrennan)
